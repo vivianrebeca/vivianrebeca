@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+💻 I’m currently working at ClearSale as a Front-end developer
+🌱 I’m currently learning more about JavaScript frameworks and UI design
+😄 Pronouns: She/Her/Ela
 <!--
 **vivianrebeca/vivianrebeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
